@@ -1,0 +1,21 @@
+{
+  "name": "Search It",
+  "short_name": "Search It",
+  "description": "Search Engine Search It : Multiple Search Engines",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#EBEBEB",
+  "background_color": "#EBEBEB",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
